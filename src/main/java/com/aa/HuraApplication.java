@@ -2,6 +2,8 @@ package com.aa;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+//loik
 @SpringBootApplication
 public class HuraApplication {
 
